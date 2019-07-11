@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/amarillohop/static/css/main.1477eebc.chunk.css",
+    "main.js": "/amarillohop/static/js/main.0d28b49c.chunk.js",
+    "main.js.map": "/amarillohop/static/js/main.0d28b49c.chunk.js.map",
+    "runtime~main.js": "/amarillohop/static/js/runtime~main.cd2670cb.js",
+    "runtime~main.js.map": "/amarillohop/static/js/runtime~main.cd2670cb.js.map",
+    "static/js/2.5050e4a4.chunk.js": "/amarillohop/static/js/2.5050e4a4.chunk.js",
+    "static/js/2.5050e4a4.chunk.js.map": "/amarillohop/static/js/2.5050e4a4.chunk.js.map",
+    "index.html": "/amarillohop/index.html",
+    "precache-manifest.fc7e851a1f76c5c160f79533431bd5a4.js": "/amarillohop/precache-manifest.fc7e851a1f76c5c160f79533431bd5a4.js",
+    "service-worker.js": "/amarillohop/service-worker.js",
+    "static/css/main.1477eebc.chunk.css.map": "/amarillohop/static/css/main.1477eebc.chunk.css.map",
+    "static/media/Landing.module.css": "/amarillohop/static/media/SiteLogo.0ee2847a.png",
+    "static/media/bottle_me_1.webm": "/amarillohop/static/media/bottle_me_1.98910bc8.webm"
+  }
+}
